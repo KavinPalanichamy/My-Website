@@ -18,8 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final-year Mechatronics student with a passion for robotics and automation. I have a strong foundation in programming and designing robotic systems, with proficiency in Python, C, and C++. My hands-on experience includes developing software for UWB-based indoor positioning systems, programming PLCs, and designing mechanical solutions using 3D printing and Autodesk Inventor. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Having completed internships at companies like Desion GmbH and Łukasiewicz – PIAP, I have honed my skills in automation and robotic applications. I am particularly interested in exploring innovative solutions that integrate hardware and software to enhance robotic capabilities. I am excited to start my career as a Robotics and Automation engineer in January 2025 and am eager to contribute to projects that push the boundaries of technology. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I enjoy learning new programming techniques, exploring advancements in robotics, and staying updated on industry trends. 
+
