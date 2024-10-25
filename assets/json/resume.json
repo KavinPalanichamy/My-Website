@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kavin Palanichamy",
+    "label": "Mechatronics Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "palanichamy.kavin@gmail.com",
+    "phone": "+48 739411634",
+    "url": "https://kavinp.xyz",
+    "summary": "A Mechatronics Engineer passionate about Robotics, manufacturing and programming",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Trembowelska 13 A",
+      "postalCode": "04-304",
+      "city": "Warsaw",
+      "countryCode": "PL",
+      "region": "Mazovia"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Kavin",
+        "url": "https://x.com/kavinpcy"
       }
     ]
   },
